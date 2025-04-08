@@ -2,7 +2,7 @@
 
 Backend for **Vibra** – a full-stack music streaming platform that allows users to upload, stream, and manage music tracks.
 
-![Vibra Backend Banner](https://your-upload-link.com/vibra-backend-banner.png)
+![Vibra Logo](./vibra.png)
 
 ---
 
