@@ -1,19 +1,24 @@
+# 🔊 Vibra Backend
+
+Backend for **Vibra** – a full-stack music streaming platform that allows users to upload, stream, and manage music tracks.
+
+![Vibra Banner](https://i.imgur.com/8RrPqX9.png)
 
 ---
 
-### ✅ Backend: `vibra-backend/README.md`
-```markdown
-#🔊 Vibra Backend
+## ⚙️ Tech Stack
+- **Node.js**
+- **Express.js**
+- **Multer / Formidable** (for file uploads)
+- **AWS S3** or **Firebase Storage** (planned)
+- **MongoDB** (planned)
 
-This is the backend server for Vibra – a full-stack music streaming platform. Built with Express.js, it supports track uploads, streaming, and metadata management.
+---
 
-## 🚀 Tech Stack
-- Node.js
-- Express
-- AWS S3 or Firebase (for audio storage - upcoming)
+## 🚀 Getting Started
 
-## 📦 Installation
+### 📦 Installation
 ```bash
 npm install
-node index.js
+
 
